@@ -126,4 +126,8 @@ footer{
     .logo{
         left: 40%;
     }
+    #middle{
+        height: 110vh;
+        padding-bottom: 4%;
+    }
     }
